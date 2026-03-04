@@ -1,1 +1,3 @@
-# hello-world-api
+# Jack's Hello World API
+
+This is my first API.
